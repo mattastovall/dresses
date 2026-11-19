@@ -1,0 +1,221 @@
+{
+  "observations": [
+    {
+      "label": "periwinkle blue",
+      "points": [
+        [
+          99,
+          632
+        ],
+        [
+          114,
+          706
+        ],
+        [
+          95,
+          755
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "lavender",
+      "points": [
+        [
+          166,
+          585
+        ],
+        [
+          164,
+          668
+        ],
+        [
+          155,
+          752
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "taupe",
+      "points": [
+        [
+          223,
+          582
+        ],
+        [
+          215,
+          665
+        ],
+        [
+          219,
+          755
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "champagne peach",
+      "points": [
+        [
+          287,
+          575
+        ],
+        [
+          281,
+          672
+        ],
+        [
+          291,
+          746
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "coral red",
+      "points": [
+        [
+          354,
+          550
+        ],
+        [
+          361,
+          631
+        ],
+        [
+          352,
+          723
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "rose pink",
+      "points": [
+        [
+          427,
+          573
+        ],
+        [
+          422,
+          670
+        ],
+        [
+          424,
+          760
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "fuchsia",
+      "points": [
+        [
+          502,
+          598
+        ],
+        [
+          499,
+          687
+        ],
+        [
+          497,
+          765
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "pale seafoam",
+      "points": [
+        [
+          581,
+          573
+        ],
+        [
+          585,
+          682
+        ],
+        [
+          578,
+          773
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "powder blue",
+      "points": [
+        [
+          652,
+          582
+        ],
+        [
+          662,
+          676
+        ],
+        [
+          652,
+          773
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "mint green",
+      "points": [
+        [
+          719,
+          566
+        ],
+        [
+          721,
+          675
+        ],
+        [
+          719,
+          760
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "ivory",
+      "points": [
+        [
+          794,
+          565
+        ],
+        [
+          790,
+          669
+        ],
+        [
+          789,
+          766
+        ]
+      ],
+      "review_reason": ""
+    },
+    {
+      "label": "black",
+      "points": [
+        [
+          855,
+          546
+        ],
+        [
+          856,
+          645
+        ],
+        [
+          853,
+          745
+        ]
+      ],
+      "review_reason": ""
+    }
+  ],
+  "unresolved": []
+}

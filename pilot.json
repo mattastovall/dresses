@@ -1,0 +1,21 @@
+{
+  "style_id": "formalwear-rack-pilot",
+  "worn": "dresses-model-wearing-full.jpeg",
+  "detail": "dresses-model-wearing-close.jpeg",
+  "racks": [
+    "dresses-multiple-hanging.jpeg"
+  ],
+  "description": "Matching strapless floor-length corset gown with a densely beaded pearl-and-crystal bodice, ruched skirt and matching fabric scarf.",
+  "mask_parts": [
+    "dress",
+    "scarf"
+  ],
+  "headroom_fraction": 0.19,
+  "mask": "pilot-inputs/garment-mask.png",
+  "annotations": {
+    "dresses-multiple-hanging.jpeg": "pilot-inputs/rack-01.json"
+  },
+  "model_plate": "final/base.png",
+  "plate_provenance": "Fitted pink portrait and its reviewed garment mask",
+  "portrait_mask": "final/mask.png"
+}

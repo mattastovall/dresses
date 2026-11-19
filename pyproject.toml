@@ -1,0 +1,12 @@
+[project]
+name = "dress-color-workflow"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "fal-client>=1.0.3",
+    "httpx>=0.28.1",
+    "mediapipe>=1.2.3",
+    "numpy>=2.4.6",
+    "opencv-contrib-python>=5.1.0.95",
+    "pillow>=13.0.0",
+]

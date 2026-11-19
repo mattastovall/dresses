@@ -1,0 +1,34 @@
+{
+  "image_left_shoulder": [
+    410,
+    394
+  ],
+  "image_left_elbow": [
+    367,
+    633
+  ],
+  "image_left_wrist": [
+    396,
+    815
+  ],
+  "image_left_hip": [
+    461,
+    776
+  ],
+  "image_right_shoulder": [
+    636,
+    382
+  ],
+  "image_right_elbow": [
+    684,
+    618
+  ],
+  "image_right_wrist": [
+    663,
+    807
+  ],
+  "image_right_hip": [
+    548,
+    771
+  ]
+}

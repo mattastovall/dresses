@@ -1,0 +1,864 @@
+{
+  "schema_version": 1,
+  "style_id": "formalwear-rack-pilot",
+  "job_sha256": "acf01484528c90ffe2317cad80da7ef81585efed760ec2d8c0357634c070b187",
+  "state": "review_required",
+  "publishable": false,
+  "base": "base.png",
+  "mask": "mask.png",
+  "retouched_portrait": true,
+  "rack_files": [
+    "dresses-multiple-hanging.jpeg"
+  ],
+  "variants": [
+    {
+      "label": "periwinkle blue",
+      "points": [
+        [
+          99,
+          632
+        ],
+        [
+          114,
+          706
+        ],
+        [
+          95,
+          755
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        107,
+        102,
+        124
+      ],
+      "hex": "#6B667C",
+      "patch_rgb": [
+        [
+          107,
+          102,
+          124
+        ],
+        [
+          108,
+          104,
+          128
+        ],
+        [
+          108,
+          104,
+          125
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 1.79,
+      "id": "rack-01-01",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-01-swatch.png",
+      "image": "rack-01-01-ideogram.png",
+      "sha256": "b29babf340fdc05037aa6beacf02f866b17dcd4fc5df67f8ee69b18bda8fa07a",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c1-a5de-70e0-b25b-b79b417d9ef8",
+        "billable_units": "30"
+      },
+      "render_sha256": "6e432488253f916fc1af56777253d09296d34470b43a5fc0b934093d7d0a8a08",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.972,
+        "midtone_delta_e76_to_rack": 4.36,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "lavender",
+      "points": [
+        [
+          166,
+          585
+        ],
+        [
+          164,
+          668
+        ],
+        [
+          155,
+          752
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        151,
+        115,
+        128
+      ],
+      "hex": "#977380",
+      "patch_rgb": [
+        [
+          142,
+          107,
+          121
+        ],
+        [
+          151,
+          115,
+          128
+        ],
+        [
+          155,
+          122,
+          137
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 5.83,
+      "id": "rack-01-02",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-02-swatch.png",
+      "image": "rack-01-02-ideogram.png",
+      "sha256": "71e262bee41c9eafbc0ff28f784154d8bff804ce12a7eeb9465e87200d1bf801",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c1-f1ce-75c1-83d7-b860b1ff327b",
+        "billable_units": "30"
+      },
+      "render_sha256": "8f0db483e64465af7ff77edb6b689fba9000cafd134463dfb936569d1b478c88",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.981,
+        "midtone_delta_e76_to_rack": 5.39,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "taupe",
+      "points": [
+        [
+          223,
+          582
+        ],
+        [
+          215,
+          665
+        ],
+        [
+          219,
+          755
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        171,
+        142,
+        123
+      ],
+      "hex": "#AB8E7B",
+      "patch_rgb": [
+        [
+          171,
+          142,
+          123
+        ],
+        [
+          166,
+          140,
+          128
+        ],
+        [
+          178,
+          151,
+          136
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 4.49,
+      "id": "rack-01-03",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-03-swatch.png",
+      "image": "rack-01-03-ideogram.png",
+      "sha256": "84cabc6e86795ca7b901db176c2b0e54252a7a3e7d6082d6e16014693c3645d5",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c2-311a-7ed2-bef4-1428895dce52",
+        "billable_units": "30"
+      },
+      "render_sha256": "934abe1a7d8a2cfff2211a534fdec3ac047535093271f42b128f692da5f99c4c",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.981,
+        "midtone_delta_e76_to_rack": 4.52,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "champagne peach",
+      "points": [
+        [
+          287,
+          575
+        ],
+        [
+          281,
+          672
+        ],
+        [
+          291,
+          746
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        175,
+        124,
+        100
+      ],
+      "hex": "#AF7C64",
+      "patch_rgb": [
+        [
+          175,
+          124,
+          100
+        ],
+        [
+          173,
+          126,
+          99
+        ],
+        [
+          180,
+          127,
+          102
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 2.89,
+      "id": "rack-01-04",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-04-swatch.png",
+      "image": "rack-01-04-ideogram.png",
+      "sha256": "ae3601da4e04a442b5a4fcb52cb72605e679bf0a1fdf27dff092d39968178d29",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c2-70b5-79a0-addf-bf6b2478e757",
+        "billable_units": "30"
+      },
+      "render_sha256": "ddfde374e83e6dd0ffdfe47b17909c9583849b9d04bbc0e8f9c816387c3d6780",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.981,
+        "midtone_delta_e76_to_rack": 3.1,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "coral red",
+      "points": [
+        [
+          354,
+          550
+        ],
+        [
+          361,
+          631
+        ],
+        [
+          352,
+          723
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        209,
+        67,
+        63
+      ],
+      "hex": "#D1433F",
+      "patch_rgb": [
+        [
+          214,
+          80,
+          75
+        ],
+        [
+          209,
+          67,
+          63
+        ],
+        [
+          192,
+          57,
+          62
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 8.06,
+      "id": "rack-01-05",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-05-swatch.png",
+      "image": "rack-01-05-ideogram.png",
+      "sha256": "ab0df9831ac20feac2f506b2824859fbd066a16cab6407c2d1d8584e348c8749",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c2-c3d0-7f11-938a-39696f99c1e3",
+        "billable_units": "30"
+      },
+      "render_sha256": "2320834c9509ef15ff5e9873b3d986ad9742bd47710d93c030bd936364e79dad",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.977,
+        "midtone_delta_e76_to_rack": 7.17,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "rose pink",
+      "points": [
+        [
+          427,
+          573
+        ],
+        [
+          422,
+          670
+        ],
+        [
+          424,
+          760
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        233,
+        149,
+        142
+      ],
+      "hex": "#E9958E",
+      "patch_rgb": [
+        [
+          234,
+          148,
+          141
+        ],
+        [
+          233,
+          149,
+          142
+        ],
+        [
+          227,
+          146,
+          141
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 2.78,
+      "id": "rack-01-06",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-06-swatch.png",
+      "image": "rack-01-06-ideogram.png",
+      "sha256": "d667a8d7a60a96816bf4cadf74e99a410ca7a17416a686f1539643644c999280",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c3-0231-77b2-84af-2f67b480370e",
+        "billable_units": "30"
+      },
+      "render_sha256": "8a12e5dd07c8b523f2fc566197516a96e5f2baa21a01d9356c5b5fef655ebdd9",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.945,
+        "midtone_delta_e76_to_rack": 8.93,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "fuchsia",
+      "points": [
+        [
+          502,
+          598
+        ],
+        [
+          499,
+          687
+        ],
+        [
+          497,
+          765
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        228,
+        57,
+        105
+      ],
+      "hex": "#E43969",
+      "patch_rgb": [
+        [
+          229,
+          55,
+          104
+        ],
+        [
+          228,
+          57,
+          105
+        ],
+        [
+          224,
+          56,
+          105
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 2.56,
+      "id": "rack-01-07",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-07-swatch.png",
+      "image": "rack-01-07-ideogram.png",
+      "sha256": "b6e9aa3b1863dd68245f97af48985623b283b5f010cb81b1c947434017f44fca",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c3-4189-78d0-b016-8c4d8fbf5304",
+        "billable_units": "30"
+      },
+      "render_sha256": "086c7ba86cc07ed480dee4bfdf5f9c4382b6e08d8de45457757f6165a1abfb24",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.982,
+        "midtone_delta_e76_to_rack": 0.53,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        8.52319372967024,
+        11.508452211266452,
+        0.1431551801802211
+      ]
+    },
+    {
+      "label": "pale seafoam",
+      "points": [
+        [
+          581,
+          573
+        ],
+        [
+          585,
+          682
+        ],
+        [
+          578,
+          773
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        182,
+        195,
+        190
+      ],
+      "hex": "#B6C3BE",
+      "patch_rgb": [
+        [
+          182,
+          195,
+          190
+        ],
+        [
+          212,
+          214,
+          207
+        ],
+        [
+          190,
+          188,
+          182
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 9.18,
+      "id": "rack-01-08",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-08-swatch.png",
+      "image": "rack-01-08-ideogram.png",
+      "sha256": "302fe50c82a1da7af6c10c9756a2e3b665f07e7ca8a638ff6b342716fe3032a4",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c3-82ca-72d1-9cba-ef9cb77b5999",
+        "billable_units": "30"
+      },
+      "render_sha256": "dccb73b4df9350e1a2e3348ce47d416760a82521e216d8e43944d879be15d073",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.903,
+        "midtone_delta_e76_to_rack": 8.63,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "powder blue",
+      "points": [
+        [
+          652,
+          582
+        ],
+        [
+          662,
+          676
+        ],
+        [
+          652,
+          773
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        148,
+        161,
+        173
+      ],
+      "hex": "#94A1AD",
+      "patch_rgb": [
+        [
+          148,
+          161,
+          173
+        ],
+        [
+          174,
+          186,
+          195
+        ],
+        [
+          134,
+          157,
+          171
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 12.15,
+      "id": "rack-01-09",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-09-swatch.png",
+      "image": "rack-01-09-ideogram.png",
+      "sha256": "408ab77e925ad3b544b65eda640cb7ed5daec52993b997969919a85666fa707b",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c3-bda7-7e83-bad0-3ea48cdef3de",
+        "billable_units": "30"
+      },
+      "render_sha256": "fdccd488c857e67421952b5cdc49ffa2c4563e21864c5e0c4705e4ecefb5a09a",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.967,
+        "midtone_delta_e76_to_rack": 7.79,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "mint green",
+      "points": [
+        [
+          719,
+          566
+        ],
+        [
+          721,
+          675
+        ],
+        [
+          719,
+          760
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        67,
+        152,
+        140
+      ],
+      "hex": "#43988C",
+      "patch_rgb": [
+        [
+          67,
+          152,
+          140
+        ],
+        [
+          98,
+          162,
+          151
+        ],
+        [
+          63,
+          145,
+          135
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 8.39,
+      "id": "rack-01-10",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-10-swatch.png",
+      "image": "rack-01-10-ideogram.png",
+      "sha256": "7627cd0cf9333d6d392102392a5c46c298841696e722b001649295e7d1d9d405",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c0-db70-7303-8450-61b7d00ada7a",
+        "billable_units": "30"
+      },
+      "render_sha256": "953eedcc994c5ecc203d944f8b168ab225f7a042425fd40152cc72654137531b",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.977,
+        "midtone_delta_e76_to_rack": 3.33,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "ivory",
+      "points": [
+        [
+          794,
+          565
+        ],
+        [
+          790,
+          669
+        ],
+        [
+          789,
+          766
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        223,
+        196,
+        172
+      ],
+      "hex": "#DFC4AC",
+      "patch_rgb": [
+        [
+          223,
+          196,
+          172
+        ],
+        [
+          209,
+          185,
+          160
+        ],
+        [
+          220,
+          197,
+          175
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 4.7,
+      "id": "rack-01-11",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-11-swatch.png",
+      "image": "rack-01-11-ideogram.png",
+      "sha256": "997c7131d473e7addfdf8666cf2a62d4ed4f2faf7e860213ef461ff3e475e170",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c4-0676-7152-b908-126972bc5ec8",
+        "billable_units": "30"
+      },
+      "render_sha256": "533db1eaef0adf436a810c935e615277ef4eebf4905a694b2a8380eb292cdd1c",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.861,
+        "midtone_delta_e76_to_rack": 1.72,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "label": "black",
+      "points": [
+        [
+          855,
+          546
+        ],
+        [
+          856,
+          645
+        ],
+        [
+          853,
+          745
+        ]
+      ],
+      "review_reasons": [],
+      "srgb": [
+        23,
+        18,
+        16
+      ],
+      "hex": "#171210",
+      "patch_rgb": [
+        [
+          20,
+          14,
+          11
+        ],
+        [
+          23,
+          18,
+          16
+        ],
+        [
+          34,
+          27,
+          24
+        ]
+      ],
+      "patch_radius_px": 5,
+      "max_patch_delta_e76": 6.3,
+      "id": "rack-01-12",
+      "rack": "dresses-multiple-hanging.jpeg",
+      "source": "provided points",
+      "sku": null,
+      "state": "merchant_review",
+      "publishable": false,
+      "swatch": "rack-01-12-swatch.png",
+      "image": "rack-01-12-ideogram.png",
+      "sha256": "79122f2296ea5fc0fad43828b3f0f5f582b3c337920bb2b53bcdd7b8b2a7fdeb",
+      "receipt": {
+        "endpoint": "ideogram/v4.5/edit",
+        "request_id": "01a1f1c4-418f-7320-8bdf-d5bbaf64b4a9",
+        "billable_units": "30"
+      },
+      "render_sha256": "fbef8bde4c7aa59323468a1e56f83e1ed3680b1ab6b89ed0369d35748bb534ab",
+      "qa": {
+        "outside_mask_changed_pixels": 0,
+        "detail_correlation": 0.912,
+        "midtone_delta_e76_to_rack": 1.52,
+        "needs_close_inspection": false
+      },
+      "dye_correction_lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "unresolved": [],
+  "source_job_sha256": "85ddc6d3e72e73183bc047d57e8b7b01add801edb770182f5ee83eeba21801ff",
+  "pose_check": {
+    "shoulder_width_ratio": 1.087,
+    "displacement_px": {
+      "image_left_elbow": 36.1,
+      "image_left_hip": 22.5,
+      "image_left_shoulder": 26.4,
+      "image_left_wrist": 41.0,
+      "image_right_elbow": 27.2,
+      "image_right_hip": 36.4,
+      "image_right_shoulder": 10.8,
+      "image_right_wrist": 23.1
+    },
+    "missing_joints": [],
+    "within_pilot_tolerance": true
+  },
+  "portrait_mask_sha256": "c5101fae9f5aae333646c6d1bbadd8fd27722f06b7f322aa267031880450e918",
+  "portrait_sha256": "c786bdf391618e9c7dbf66fe8c6b8c72c213a0fbd6d5968008e3091ca64d284d",
+  "registered_front_interior_pixels": 254409,
+  "base_sha256": "dd0080aa625fd4d1a099c9bccf6826640dcf5aeb8f14b7690236e731df4cf82d"
+}
