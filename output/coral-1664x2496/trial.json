@@ -1,0 +1,77 @@
+{
+  "size": [
+    1664,
+    2496
+  ],
+  "previous_size": [
+    1024,
+    1536
+  ],
+  "source_file": "dresses-model-wearing-full.jpeg",
+  "source_size": [
+    4102,
+    5470
+  ],
+  "source_sha256": "34247b570f25c9e70454f9f35593e7237c68dbe21a897f12c13088cf57ba4129",
+  "target_srgb": [
+    209,
+    67,
+    63
+  ],
+  "target_hex": "#D1433F",
+  "quality": "low",
+  "edit_precision": "high",
+  "seed": 39147,
+  "receipt": {
+    "endpoint": "ideogram/v4.5/edit",
+    "request_id": "01a1f211-0959-7cf0-9ab6-0b16dc4663c7",
+    "billable_units": "30"
+  },
+  "previous_receipt": {
+    "endpoint": "ideogram/v4.5/edit",
+    "request_id": "01a1f1c2-c3d0-7f11-938a-39696f99c1e3",
+    "billable_units": "30"
+  },
+  "method": "Front interior resampled from the original worn photograph on the fitted portrait. Other regions enlarged from the approved pink base. The delivered coral is the direct Ideogram response.",
+  "input_sha256": "6786dc2ecd131300764dd5124272b8aec6a74244df08d615a60d9e68c4296fbc",
+  "result_sha256": "81f0bd4058bece0c898df792d9ab8934e9b1f7e7f186870e1e3f9a3c4c54749b",
+  "comparison": {
+    "layout": "Original, previous coral, new coral. Original crops centered on corresponding landmarks, sampled directly from the unwarped worn photo. Same scale across each row, with no sharpening or color adjustments.",
+    "detail_check": "Pearson correlation of bandpass luma against the registered original photograph. All images on the 1664 x 2496 grid. Bandpass is a difference of Gaussians with sigmas 0.55 and 1.7 px. Samples include the reviewed front interior with alpha >= 250. This is an alignment-sensitive texture metric.",
+    "regions": {
+      "upper_bodice": {
+        "box_on_previous_canvas": [
+          400,
+          467,
+          619,
+          566
+        ],
+        "pixel_count": 45212,
+        "previous": 0.914,
+        "new": 0.996
+      },
+      "corset": {
+        "box_on_previous_canvas": [
+          419,
+          565,
+          601,
+          657
+        ],
+        "pixel_count": 38364,
+        "previous": 0.931,
+        "new": 0.996
+      },
+      "gather": {
+        "box_on_previous_canvas": [
+          404,
+          683,
+          478,
+          747
+        ],
+        "pixel_count": 11047,
+        "previous": 0.883,
+        "new": 0.985
+      }
+    }
+  }
+}
